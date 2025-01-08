@@ -7,5 +7,5 @@ I'm an aspiring Android Developer with a passion for building mobile application
 - Tools: Android Studio, Git, GitHub
 
 ## 📬 Contact:
-- Email: [rudrasalokhe@email.com](mailto:rudrasalokhe@email.com)
+- Email: [rudrasalokhe@email.com](mailto:rudrasalokhe@gmail.com)
 - LinkedIn: [linkedin.com/in/rudrasalokhe](https://linkedin.com/in/rudrasalokhe)
