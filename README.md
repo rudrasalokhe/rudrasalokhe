@@ -1,10 +1,10 @@
 # Hello, I'm Rudra Salokhe 👋
 
-I'm an aspiring Android Developer with a passion for building mobile applications and learning new technologies.
+I'm an aspiring Android Developer with a passion for building web applications and learning new technologies.
 
 ## 🔧 Technologies and Tools:
-- Languages: Kotlin, Java
-- Tools: Android Studio, Git, GitHub
+- Languages: HTML5, Java, Css, JavaScript.
+- Tools: Git, GitHub
 
 ## 📬 Contact:
 - Email: [rudrasalokhe@email.com](mailto:rudrasalokhe@gmail.com)
