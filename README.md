@@ -1,6 +1,6 @@
 # Hello, I'm Rudra Salokhe 👋
 
-I'm an aspiring Android Developer with a passion for building web applications and learning new technologies.
+I'm an aspiring Developer with a passion for building web applications and learning new technologies.
 
 ## 🔧 Technologies and Tools:
 - Languages: HTML5, Java, Css, JavaScript.
