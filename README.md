@@ -25,7 +25,7 @@ I still need to learn a lot
 
 ### 📊 GitHub Stats:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrasalokhe&layout=compact&theme=radical)
 
 ---
 
