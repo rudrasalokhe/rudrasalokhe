@@ -25,7 +25,7 @@ I am continuously improving my skills and learning every day. 🚀
 
 ### 📊 GitHub Stats:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrasalokhe&layout=compact&theme=radical&cache_seconds=1800)
+
 
 ---
 
