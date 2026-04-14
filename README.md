@@ -1,30 +1,31 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rudra%20Salokhe&fontSize=72&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:16213e&height=220&section=header&text=RUDRA%20SALOKHE&fontSize=72&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=8A2BE2&center=true&vCenter=true&width=700&lines=Building+clean+digital+products;Writing+code+that+actually+solves;Learning%2C+shipping%2C+improving;Mumbai+%F0%9F%93%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1200&color=8A2BE2&center=true&vCenter=true&width=700&lines=Building+things+that+hit+hard;Developing+with+intent;Shipping+clean+products;Mumbai+based" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rudrasalokhe&label=PROFILE+VIBES&color=8A2BE2&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=rudrasalokhe&label=VISITS&color=8A2BE2&style=for-the-badge" />
 </p>
 
 ---
 
-## ⚡ About Me
+## ABOUT
 
-I like building things that look clean, work fast, and actually mean something.  
-Right now I’m focused on shipping, improving, and turning ideas into real products.
+I build. I ship. I improve.
 
-- 📍 Mumbai, India.
-- 🎯 Building with intent.
-- 🚀 Always learning something new.
-- 🧠 Focused on developing, not just coding.
+Focused on making ideas real, writing clean code, and turning raw concepts into working products.
+
+- Mumbai, India
+- Always building
+- Always learning
+- Always moving
 
 ---
 
-## 🔮 Tech Energy
+## STACK
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -32,21 +33,21 @@ Right now I’m focused on shipping, improving, and turning ideas into real prod
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
 
-## 🧩 Things I’m Building
+## BUILDS
 
-- **DealInbox** — a smart system for managing brand deals and creator workflows.
-- **Trainify Bot** — a project built around automation and progress tracking.
-- **Hotel System** — a clean management system for allocation and billing flow.
+- DealInbox
+- Trainify Bot
+- Hotel System
 
 ---
 
-## 📈 GitHub Pulse
+## STATS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rudrasalokhe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
@@ -59,8 +60,17 @@ Right now I’m focused on shipping, improving, and turning ideas into real prod
 
 ---
 
-## 🌊 Final Line
+## CONNECT
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rudra-salokhe-12196b250">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
-  <b>BRUH</b>
+  <b>Developing in silence. Shipping with force.</b>
 </p>
