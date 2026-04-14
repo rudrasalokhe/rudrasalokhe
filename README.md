@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1200&color=8A2BE2&center=true&vCenter=true&width=700&lines=Building+things+that+hit+hard;Developing+with+intent;Shipping+clean+products;Mumbai+based" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1200&color=8A2BE2&center=true&vCenter=true&width=700&lines=developing+things+that+matter;writing+clean+code;turning+ideas+into+products;mumbai+based" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,20 +12,20 @@
 
 ---
 
-## ABOUT
+## about
 
-I build. I ship. I improve.
+i build things  
+i fix things  
+i keep improving things
 
-Focused on making ideas real, writing clean code, and turning raw concepts into working products.
-
-- Mumbai, India
-- Always building
-- Always learning
-- Always moving
+- mumbai, india
+- always learning
+- always coding
+- always moving
 
 ---
 
-## STACK
+## stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -39,7 +39,7 @@ Focused on making ideas real, writing clean code, and turning raw concepts into 
 
 ---
 
-## BUILDS
+## builds
 
 - DealInbox
 - Trainify Bot
@@ -47,7 +47,7 @@ Focused on making ideas real, writing clean code, and turning raw concepts into 
 
 ---
 
-## STATS
+## stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rudrasalokhe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
@@ -60,17 +60,10 @@ Focused on making ideas real, writing clean code, and turning raw concepts into 
 
 ---
 
-## CONNECT
+## connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rudra-salokhe-12196b250">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Developing in silence. Shipping with force.</b>
 </p>
