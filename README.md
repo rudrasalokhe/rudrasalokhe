@@ -62,5 +62,5 @@ Right now I’m focused on shipping, improving, and turning ideas into real prod
 ## 🌊 Final Line
 
 <p align="center">
-  <b>Building in silence. Shipping with intent. Growing in public.</b>
+  <b>BRUH</b>
 </p>
