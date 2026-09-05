@@ -2,7 +2,10 @@
 
 # Hey, I'm Rudra 👋
 
-### Student-Founder · Full-Stack Dev · Building in Public
+### Full-Stack Dev · Building in Public
+
+![Profile views](https://komarev.com/ghpvc/?username=rudrasalokhe&color=8A2BE2&style=flat)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+DealInbox+%26+TableTap;Full-stack+dev+%7C+Flask+%2F+Node+%2F+React;Documenting+the+process+on+YouTube)
 
 <svg width="900" height="90" viewBox="0 0 900 90" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','Fira Code',monospace">
   <defs>
@@ -57,8 +60,22 @@ I'm a Computer Engineering + MBA student at NMIMS, Mumbai. I build stuff, mostly
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rudrasalokhe&show_icons=true&theme=dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrasalokhe&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrasalokhe&layout=compact&theme=dark&hide_border=true" height="165"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrasalokhe&theme=dark&hide_border=true"/>
+</div>
+
+---
+
+### 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rudrasalokhe/rudrasalokhe/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
+
+> Snake animation auto-generates once you add the [snake workflow](https://github.com/Platane/snk) to this repo's Actions.
 
 ---
 
