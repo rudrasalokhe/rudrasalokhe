@@ -32,13 +32,13 @@
 
 ### 🚀 About Me
 
-I'm a Computer Engineering + MBA (Tech Management) student at NMIMS, Mumbai, spending most of my time shipping products instead of sleeping. I build fast, care way too much about UI polish, and iterate in public — documenting the whole student-founder grind on YouTube.
+I'm a Computer Engineering + MBA student at NMIMS, Mumbai. I build stuff, mostly web apps, and post about it on YouTube.
 
-- 🎓 Integrated B.Tech + MBA, Computer Engineering & Technology Management — NMIMS (MPSTME)
+- 🎓 B.Tech + MBA, Computer Engineering & Technology Management — NMIMS (MPSTME)
 - 🛠️ Currently building **DealInbox** and **TableTap**
-- 🎥 Running a faceless YouTube channel on the student-founder journey
-- ⚡ Full-stack dev — Flask, Node.js, Spring Boot, MongoDB, MySQL, React
-- 💸 Interested in fintech, consumer apps, and premium UI/UX
+- 🎥 Running a YouTube channel about building projects as a student
+- ⚡ Full-stack — Flask, Node.js, Spring Boot, MongoDB, MySQL, React
+- 💸 Into fintech, consumer apps, and UI/UX
 
 ---
 
