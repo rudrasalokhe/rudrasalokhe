@@ -12,7 +12,9 @@
 
 Computer Engineering + MBA student at NMIMS (MPSTME), Mumbai. I build and ship SaaS products, mostly solo.
 
-- ⚙️ Flask / Node.js / Spring Boot / React / MongoDB / MySQL
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,react,nodejs,flask,mongodb,mysql,git,figma" />
+</div>
 
 ---
 
