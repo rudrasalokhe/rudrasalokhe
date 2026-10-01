@@ -53,4 +53,3 @@ Computer Engineering + MBA student at **NMIMS MPSTME, Mumbai**
 [LinkedIn](#) · [Twitter/X](#)
 
 </div>
- i wanna look cracked engineer ive this a better look
