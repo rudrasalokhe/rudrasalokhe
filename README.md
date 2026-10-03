@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:2c5364,100:0d1117&height=240&section=header&text=Rudra%20Salokhe&fontSize=58&fontColor=ffffff&fontAlignY=36&stroke=00d4ff&strokeWidth=1&desc=Full-Stack%20Developer%20%C2%B7%20Student-Founder&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:2c5364,100:0d1117&height=240&section=header&text=Rudra%20Salokhe&fontSize=58&fontColor=ffffff&fontAlignY=36&stroke=00d4ff&strokeWidth=1&desc=Developing&descAlignY=58&descSize=20" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=520&height=40&lines=I+build+SaaS+products;React+%C2%B7+FastAPI+%C2%B7+PostgreSQL;CompE+%2B+MBA+at+NMIMS+Mumbai" alt="typing" />
 
