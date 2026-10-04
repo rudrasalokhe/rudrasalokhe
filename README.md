@@ -37,41 +37,6 @@ const rudra = {
 
 <br/>
 
-## 🚀 Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 📬 DealInbox
-Brand deal CRM for content creators. Track deals, follow-ups and payments in one place.
-
-`React` `FastAPI` `PostgreSQL`
-
-</td>
-<td width="33%" valign="top">
-
-### 🍽️ TableTap
-QR-code restaurant ordering SaaS. Scan, order, done. No app, no waiter wait.
-
-`React` `FastAPI` `PostgreSQL`
-
-</td>
-<td width="33%" valign="top">
-
-### ❄️ PolarLink
-Offline-first logistics system for polar expeditions. Built for SIH 2026.
-
-`Python` `FastAPI` `SQLAlchemy`
-
-</td>
-</tr>
-</table>
-
-<!-- Add Live + Repo links under each project, recruiters click these first -->
-
-<br/>
-
 ## 📊 Stats
 
 <div align="center">
