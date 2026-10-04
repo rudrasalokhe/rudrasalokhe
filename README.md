@@ -52,17 +52,7 @@ const rudra = {
 
 <br/>
 
-## 🌱 Currently
 
-```js
-const now = {
-  learning: "new tech, constantly",
-  building: "things that ship",
-  open: "to collabs and good conversations",
-};
-```
-
-<br/>
 
 ## 🤝 Connect
 
