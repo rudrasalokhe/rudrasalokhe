@@ -14,16 +14,7 @@
 
 ## ⚡ About
 
-```js
-const rudra = {
-  role: "Full-Stack Developer",
-  studying: "B.Tech Computer Engineering + MBA Tech Management @ NMIMS MPSTME",
-  founder: ["DealInbox", "TableTap"],
-  hackathon: "PolarLink (SIH 2026, team Sub-Zero)",
-  loves: ["clean backends", "product design", "shipping fast"],
-  lookingFor: "SWE / Data / Product internships",
-};
-```
+Rudra · Student @ NMIMS · Building DealInbox
 
 <br/>
 
